@@ -1,0 +1,271 @@
+[
+    {
+       "id": 1,
+       "title": "Chrono Trigger",
+       "platform": "SNES",
+       "genre": ["JRPG"],
+       "description" : "A chance encounter amid the festivities of Guardia's Millennial Fair in Leene Square introduces our young hero, Crono, to a girl by the name of Marle. Deciding to explore the fair together, the two soon find themselves at an exhibition of the Telepod, the latest invention by Crono's longtime friend Lucca. Marle, fearless and brimming with curiosity, volunteers to assist in a demonstration. An unanticipated malfunction, however, sends her hurtling through a rift in the dimensions. Taking hold of the girl's pendant, Crono bravely follows in pursuit. But the world into which he emerges is the one of four centuries before. Journey to the forgotten past, the distant future, and even to the very End of Time. The epic quest to save a planet's future makes history once again.",
+       "rating" : "10",
+       "bias_rating" : "10",
+       "review" : "",
+       "img": "images/games/chrono-trigger.jpg"
+    },
+    {
+       "id": 2,
+       "title": "Tactics Ogre: Let Us Cling Together",
+       "platform": "SNES",
+       "genre": ["JRPG", "Tactical"],
+       "description" : "The Valerian Isles, jewels of the Obero Sea. Long a center of naval commerce, the people of the isles struggled throughout history for dominion over her shores.\r\n        Finally there rose a man to put an end to this conflict: Dorgalua Oberyth. But history would know him as the Dynast-King. King Dorgalua strove to stamp out the hatred among the people of the isles, and for fully half a century, Valeria knew prosperity.\r\n        Yet upon the king's death, civil war erupted anew as three factions vied for control: the Bakram, who comprised much of Valeria's nobility; the Galgastani, whose people made up the majority of the isles' population; and the Walister, who numbered but few.\r\n        The isles were soon divided between the Bakram and Galgastani, and an uneasy peace settled across the land. Yet none believed the calm would last...",
+       "rating" : "10",
+       "bias_rating" : "10",
+       "review" : "",
+       "img": "images/games/to-luct.jpg"
+    },
+    {
+        "id": 1,
+        "title": "Fire Emblem: Genealogy of Holy War",
+        "platform": "SNES",
+        "genre": ["JRPG", "Tactical"],
+        "description" : "Genealogy of the Holy War takes place on the continent of Jugdral, which is divided between eight countries: the Kingdom of Grannvale, the Kingdom of Verdane, the Kingdom of Agustria, the Munster District, the Kingdom of Thracia, the Republic of Miletos, the Kingdom of Silesse, and the Kingdom of Isaach.\r\n        According to staff, Jugdral is within the same world as Archanea, the continent featured in the original Fire Emblem and its sequels: the events of Genealogy of the Holy War are set hundreds of years prior to the time period of Archanea, with the latter being in a barely civilized state. It was during this time that the Dragon Tribes were debating how to treat humanity.\r\n        In ancient times in the year Grann 440, the Earth Dragon Loptous made a pact with the priest Galle, who became his vessel for bringing ruin to humanity. By 632, the Divine Dragon Naga had discovered Loptous's part in the gradual conquest of Jugdral, so she chose twelve soldiers to defeat Loptous: this event became known as the Miracle of Darna. \r\n        The Twelve Crusaders defeated Loptous and his cult, bringing peace to the land in a conflict dubbed the Holy War—these twelve would go on to establish Jugdral's countries. The events of Genealogy of the Holy War begin in the year 757.",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : "",
+        "img": "images/games/fe-gohw.jpg"
+     },
+     {
+        "id": 1,
+        "title": "Super Mario RPG: Legend of the Seven Stars",
+        "platform": "SNES",
+        "genre": ["JRPG"],
+        "description" : "Mario and his friends as they seek to defeat the Smithy Gang, who has crashed into their world and scattered the seven star pieces of Star Road.",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : "", 
+        "img": "images/games/supermariorpg.jpg"
+     },
+     {
+        "id": 1,
+        "title": "Suikoden V",
+        "platform": "PS2",
+        "genre": ["JRPG"],
+        "description" : "The Queendom of Falena, ruled for generation upon generation by the women of the royal family: a vibrant nation, criss-crossed by canals and bustling with commerce. The Prince of Falena and his friends are about to embark on an adventure that will take them far and wide across this land, and beyond its borders to neighboring nations too.",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : "",
+        "img": "images/games/suikoden-v.jpg"
+     },
+     {
+        "id": 1,
+        "title": "Final Fantasy X",
+        "platform": "PS2",
+        "genre": ["JRPG"],
+        "description" : "The game is set in the world of Spira and follows the story of Tidus and Yuna. Tidus is a star athlete blitzball player, who is taken to Spira by Auron after a monster called Sin destroys his home city of Zanarkand. Tidus then joins the summoner, Yuna on her pilgrimage with her guardians to defeat Sin and bring about the Calm.",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : "",
+        "img": "images/games/ffx.jpg"
+     },
+     {
+        "id": 1,
+        "title": "Final Fantasy X-2",
+        "platform": "PS2",
+        "genre": ["JRPG"],
+        "description" : "The game takes place in Spira during the Eternal Calm, two years after Final Fantasy X. It continues the story of Yuna, who has become a sphere hunter and a member of the sphere hunting group, the Gullwings, with Rikku and Paine. Yuna hunts for spheres to find clues about a mysterious man who looks like her lost love Tidus. However, she becomes entangled in political turmoil the Gullwings must resolve to prevent a war, uncovering a plot to destroy Spira with a secret weapon from its ancient past.",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : "",
+        "img": "images/games/ffx-2.jpg"
+     },
+     {
+        "id": 1,
+        "title": "Final Fantasy XII",
+        "platform": "PS2",
+        "genre": ["JRPG"],
+        "description" : "Enter an era of war within the world of Ivalice. The small kingdom of Dalmasca, conquered by the Archadian Empire, is left in ruin and uncertainty. Princess Ashe, the one and only heir to the throne, devotes herself to the resistance to liberate her country.",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : "",
+        "img": "images/games/ffxii.jpg"
+     },
+     {
+        "id": 1,
+        "title": "Suikoden Tactics",
+        "platform": "PS2",
+        "genre": ["JRPG", "Tactical"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : "",
+        "img": "images/games/suikoden-tactics.jpg"
+     },
+     {
+        "id": 1,
+        "title": "Persona 3 FES",
+        "platform": "PS2",
+        "genre": ["JRPG"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Persona 4: Golden",
+        "platform": "PSP",
+        "genre": ["JRPG"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Mana Khemia: Alchemists of Al-Revis",
+        "platform": "PS2",
+        "genre": ["JRPG"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Samurai Warriors",
+        "platform": "PS2",
+        "genre": ["Action Game"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Samurai Warriors 2",
+        "platform": "PS2",
+        "genre": ["Action Game"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Samurai Warriors 2: Xtreme Legends",
+        "platform": "PS2",
+        "genre": ["Action Game"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Samurai Warriors 2: Empires",
+        "platform": "PS2",
+        "genre": ["Action Game"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Dynasty Warriors 5",
+        "platform": "PS2",
+        "genre": ["Action Game"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Dynasty Warriors 5; Xtreme Legends",
+        "platform": "PS2",
+        "genre": ["Action Game"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Dynasty Warriors 5: Empires",
+        "platform": "PS2",
+        "genre": ["Action Game"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Warriors Orochi",
+        "platform": "PS2",
+        "genre": ["Action Game"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Warriors Orochi 2",
+        "platform": "PS2",
+        "genre": ["Action Game"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Naruto: Narutimate Hero 2 (Japan)",
+        "platform": "PS2",
+        "genre": ["Action Game"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Naruto Shippuden - Narutomate Accel 2 (Ultimate Ninja 5)",
+        "platform": "PS2",
+        "genre": ["Action Game"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Rygar: The Legendary Adventure",
+        "platform": "PS2",
+        "genre": ["JRPG"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "Tekken 5",
+        "platform": "PS2",
+        "genre": ["Action Game"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     },
+     {
+        "id": 1,
+        "title": "",
+        "platform": "PS2",
+        "genre": ["JRPG"],
+        "description" : "",
+        "rating" : "10",
+        "bias_rating" : "10",
+        "review" : ""
+     }
+ ]

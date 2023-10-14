@@ -19,12 +19,14 @@ function App() {
         <Navigation pathName={pathName}></Navigation>        
       </header>
 
+      <div id='content' className='min-h-screen'>
         <Routes> 
             <Route exact path='/' element={< Home />}></Route> 
             <Route exact path='/game-reviews' element={< GameReviews />}></Route> 
             <Route exact path='/portfolio' element={< Portfolio />}></Route> 
         </Routes> 
-      
+      </div>
+
       <Footer></Footer>
      
     </div>

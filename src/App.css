@@ -9,6 +9,10 @@ body {
     background-color: #000;
 }
 
+.fit-height {
+  height: -webkit-fill-available;
+}
+
 /* Cubes */
 .cube {
     position: absolute;

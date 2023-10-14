@@ -6,7 +6,16 @@ class Navigation extends React.Component {
   render(){
 
     const pathNames = ['/portfolio', '/game-reviews'];
-    let isAbsolute = !pathNames.includes(this.props.pathName) ? 'absolute' : '';
+    const pathName = this.props.pathName;
+    let isAbsolute = !pathNames.includes(pathName) ? 'absolute' : '';
+
+    function isActive(path) {
+      if(pathName === path) {
+        return  'text-pink-700';
+      }
+
+      return null;
+    }
 
     return <div>
       <nav className={'flex items-center justify-between flex-wrap p-6 z-10 ' + isAbsolute}> 
@@ -21,12 +30,12 @@ class Navigation extends React.Component {
         </div>
         <div className="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
           
-          <div className="text-sm lg:flex-grow">
+          <div className="text-sm lg:flex-grow font-bold">
 
-            <Link to="/" className="block mt-4 lg:inline-block lg:mt-0 text-gray-400 hover:text-white mr-4">Home</Link> 
-            <Link to="/portfolio" className="block mt-4 lg:inline-block lg:mt-0 text-gray-400 hover:text-white mr-4">Portfolio</Link> 
-            <Link to="/game-reviews" className="block mt-4 lg:inline-block lg:mt-0 text-gray-400 hover:text-white mr-4">Game Reviews</Link> 
-            <Link to="/contact" className="block mt-4 lg:inline-block lg:mt-0 text-gray-400 hover:text-white mr-4">Contact</Link> 
+            <Link to="/" className={"block mt-4 lg:inline-block lg:mt-0 text-gray-400 hover:text-white mr-4 " + isActive('/')}>Home</Link> 
+            <Link to="/portfolio" className={"block mt-4 lg:inline-block lg:mt-0 text-gray-400 hover:text-white mr-4 " + isActive('/portfolio')}>Portfolio</Link> 
+            <Link to="/game-reviews" className={"block mt-4 lg:inline-block lg:mt-0 text-gray-400 hover:text-white mr-4 " + isActive('/game-reviews')}>Game Reviews</Link> 
+            <Link to="/contact" className={"block mt-4 lg:inline-block lg:mt-0 text-gray-400 hover:text-white mr-4 " + isActive('/contact')}>Contact</Link> 
 
           </div>
         </div>
