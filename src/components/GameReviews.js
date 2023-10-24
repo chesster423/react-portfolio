@@ -1,4 +1,7 @@
 import React from 'react'
+
+import Common from './functions/Common';
+
 class GameReviews extends React.Component {
 
   constructor(props) {
@@ -40,9 +43,9 @@ class GameReviews extends React.Component {
     return <div className='container mx-auto pb-20 px-5'>
   
     <div>
-      <h1 className='text-center lg:text-4xl mb-5 text-white'>Game Reviews</h1>
+      <h1 className='text-center lg:text-4xl mb-20 text-white'>Game Reviews</h1>
 
-      <input className='form-control m-0 block w-full rounded border border-solid border-gray-700 bg-gray-600 bg-clip-padding px-4 py-2 text-xl font-normal text-gray-700 transition ease-in-out focus:border-pink-600 focus:bg-gray-400 focus:text-gray-700 focus:outline-none' 
+      <input className='form-control m-0 block lg:w-6/12 w-full rounded border border-solid border-gray-700 bg-gray-600 bg-clip-padding px-4 py-2 text-xl font-normal text-gray-700 transition ease-in-out focus:border-pink-600 focus:bg-gray-400 focus:text-gray-700 focus:outline-none' 
       placeholder="Enter Title" 
       onChange={event => this.setQuery(event.target.value)}/>
     
@@ -55,12 +58,10 @@ class GameReviews extends React.Component {
               <img className='w-full' src={game.img} alt="Game Image" />
             </div>
           </div>          
-          <div className='col-span-7 py-2 px-5'>
+          <div className='col-span-9 py-2 px-5'>
             <h3 className='font-bold text-xl'>{game.title}</h3>
-            <p className='text-gray-400'>{game.description}</p>
-          </div>
-          <div className='col-span-2 px-5 text-right'>
-            <a className='text-blue-400'>Read Review</a>
+            <p className='text-gray-400'>{Common.truncateString(game.description)}</p>
+            <a className='text-blue-400 text-right block'>Read Review</a>
           </div>
           <div className='col-span-1 text-center text-3xl font-bold bg-yellow-400 fit-height'>
             <div className='relative' style={{top: '40%'}}><span className='text-black rounded'>{game.rating}</span></div>            
